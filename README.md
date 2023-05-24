@@ -1,2 +1,2 @@
 # ExplSelection
-Explanation Selection Using Unlabeled Data for In-Context Learning
+Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting
