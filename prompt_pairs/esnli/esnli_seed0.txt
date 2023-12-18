@@ -1,0 +1,80 @@
+Premise:
+"A man at a flea market browsing."
+Based on this premise, can we conclude the hypothesis "A man is sleeping at a flea market." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: One cannot be sleeping and browsing at the same time. The answer is no.
+
+Premise:
+"A man and a woman sit on a couch and look at each other while three other men stand by."
+Based on this premise, can we conclude the hypothesis "man and woman looking at each other sitting on a bench." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A couch is similar and could be a bench. The answer is yes.
+
+Premise:
+"A skater is jumping in the air over some stairs at night."
+Based on this premise, can we conclude the hypothesis "A skater is jumping over some stairs in the local skate park." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Just because the skater is jumping in the air doesn't imply he is at a local skate park. The answer is not possible to tell.
+
+Premise:
+"Asian man takes a nap outside in folding chair."
+Based on this premise, can we conclude the hypothesis "A man naps in a summer breeze." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A person can take a snap even if it is not in summer breeze. The answer is not possible to tell.
+
+Premise:
+"A yougn boy in a blue and white baseball uniform throwing a baseball while tucking his glove close to his body."
+Based on this premise, can we conclude the hypothesis "a boy throws a ball." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: throwing a baseball is same as throws a ball. The answer is yes.
+
+Premise:
+"A mountain climber scales a steep rock face."
+Based on this premise, can we conclude the hypothesis "A man sitting on a couch." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: If one is sitting, one is not simultaneously scaling a rock. The answer is no.
+
+Premise:
+"A red dog looks at a brown dog on a dirt path next to a lake."
+Based on this premise, can we conclude the hypothesis "A brown dog looks at a red dog." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A red dog looking at a brown dog does not necessarily mean that the brown dog looks back at the red one. The answer is not possible to tell.
+
+Premise:
+"A man in glasses and a striped shirt sitting down and looking toward the camera."
+Based on this premise, can we conclude the hypothesis "a man is sitting." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A man in glasses sitting down implies he is sitting. The answer is yes.
+
+Premise:
+"Mother and child awaiting a ride from the store."
+Based on this premise, can we conclude the hypothesis "A parent and her child are sleeping." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A person would not be sleeping while awaiting a ride from the store. The answer is no.

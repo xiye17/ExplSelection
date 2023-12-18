@@ -255,7 +255,6 @@ def search_with_validation(args):
     teacher_ind_eval_results, teacher_eval_responses = run_preds_with_tune_set(
         args, valid_shots, teacher_candidates, task_specific_helper, tune_data)
     teacher_merged_eval_results = eval_ensemble_on_tune_set(args, tune_data, teacher_eval_responses, teacher_ind_eval_results)
-    print_tabular_results("TUNETEA" + str(args.teacher_times_search), teacher_merged_eval_results)
 
     # student loop
     args.search_strategy = args.student_search_strategy
@@ -266,7 +265,7 @@ def search_with_validation(args):
         task_specific_helper, tune_data, silver_eval_results=teacher_merged_eval_results)
     (selected_idx, tune_selected_shots, tune_eval_results), explored_combos = mbr_search_with_val_set(
         args, valid_shots, student_candidates, task_specific_helper, tune_data, teacher_merged_eval_results)
-    print_tabular_results("TUNESTU", tune_eval_results)
+    print_tabular_results("STUDENT", tune_eval_results)
 
     if args.do_score_only:
         return

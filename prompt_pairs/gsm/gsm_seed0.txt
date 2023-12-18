@@ -1,0 +1,23 @@
+Q: Carl is taking a class where the whole grade is based on four tests that are graded out of 100. He got an 80, a 75 and a 90 on his first three tests. If he wants an 85 average for the class, what is the minimum grade he needs to get on his last test?
+A: First, find the total number of points Carl needs to earn across all the tests by multiplying his desired average by the number of tests: 85 * 4 = 340 marks. Then subtract all Carl's previous test scores to find the last score he needs to earn: 340 - 80 - 75 - 90 = 95 marks. The answer is 95.
+
+Q: Mary is counting the number of minnows in the pond. 40% of the minnows have red bellies, 30% have green bellies and the rest have white bellies. If 20 minnows have red bellies, how many minnows have white bellies?
+A: First find the total number of minnows by dividing the number of red minnows by the percentage of minnows that are red: 20 minnows / 40% = 50 minnows. Then subtract the percentages of red- and green-bellied minnows to find the percentage of white-bellied minnows: 100% - 40% - 30% = 30%. Then multiply the total number of minnows by the percentage that have white bellies: 30% * 50 minnows = 15 minnows. The answer is 15.
+
+Q: Last week, Charles bought a t-shirt for $30, a backpack for $10, and a blue cap for $5. The store gave him a discount and, in total, he only spent $43. How much of a discount did they give him, in dollars?
+A: The purchases he made totaled $30 + $10 + $5 = $45. He should pay $45, but he only paid $43, so $45 - $43 = $2 was the discount they gave him. The answer is 2.
+
+Q: There are 11 boys and 13 girls in a class. If 1 boy is added to the class, what percentage of the class are girls?
+A: There are a total of 11 + 1 = 12 boys in the class. Hence, there are a total of 12 boys + 13 girls = 25 students in a class. So 13/25 x 100% = 52% of the class are girls. The answer is 52.
+
+Q: Jerry can run from his house to his school and back in the time it takes his brother Carson to run to the school. If it takes Jerry 15 minutes to make a one-way trip from his house to his school and the school is 4 miles away, how fast does Carson run in miles per hour?
+A: We know that Carson takes twice as long as Jerry to get to the school, so we can find the time it takes him by multiplying Jerry's time by 2: 15 minutes * 2 = 30 minutes. Then convert that time to house by dividing by 60 minutes/hour = 30 minutes / 60 minutes/hour = .5 hour. Then divide the distance Carson runs by the time it takes him to run it to find his speed: 4 miles / 0.5 hours = 8 miles/hour. The answer is 8.
+
+Q: Casey is trying to decide which employee she wants to hire. One employee works for $20 an hour. The other employee works for $22 an hour, but Casey would also get a $6/hour subsidy from the government for hiring a disabled worker. How much money per week would Casey save by hiring the cheaper employee, if they both work 40 hours per week?
+A: First find the weekly cost of the first employee: $20/hour * 40 hours/week = $800/week. Then find the hourly cost of the second employee after the government subsidy: $22/hour - $6/hour = $16/hour. Then find the weekly cost of the second employee: $16/hour * 40 hours/week = $640/week. Then subtract the smaller weekly cost from the bigger weekly cost to find the difference: $800/week - $640/week = $160/week. The answer is 160.
+
+Q: Emma is 7 years old. If her sister is 9 years older than her, how old will Emma be when her sister is 56?
+A: Emma’s sister is 7 + 9 = 16 years old. In this many years, Emma’s sister will be 56 years old: 56 - 16 = 40 years. When her sister is 56 years old, Emma will be 7 + 40 = 47 years. The answer is 47.
+
+Q: Avery opens a flower shop. She ties 8 bunches of flowers with 9 flowers in each bunch. How many bunches would she have if she put 12 flowers in each bunch instead?
+A: She has a total of 8 * 9 = 72 flowers. Dividing them in bunches of 12 will give her 72 / 12 = 6 bunches of flowers. The answer is 6.

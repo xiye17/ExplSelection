@@ -36,7 +36,7 @@ def manual_query_result_filename_func(args):
     )
 
 def read_manual_prompt(task, prompt_id, style_template):    
-    prompt_lines = read_jsonline(f'manual_prompts/{task}.jsonline')
+    prompt_lines = read_jsonline(f'prompts/{task}.jsonline')
     d = dict([(x["id"], x) for x in prompt_lines])
     selected = d[prompt_id]
     if "style_template" in selected:

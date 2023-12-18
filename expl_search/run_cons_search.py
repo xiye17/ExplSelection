@@ -42,7 +42,7 @@ def register_cons_args(parser):
     parser.add_argument("--aug_temperature", type=float, default=0.0)
 
     parser.add_argument("--aug_batch_size", type=int, default=1)
-    parser.add_argument("--score_batch_size", type=int, default=200)
+    parser.add_argument("--score_batch_size", type=int, default=10)
 
     parser.add_argument("--test_engine", default=None, choices=['opt', "davinci", "text-davinci-001", "text-davinci-002", "text-curie-001", "code-davinci-001",
         "code-davinci-002"])

@@ -1,0 +1,80 @@
+Premise:
+"A person stands in a vast field of glacial ice."
+Based on this premise, can we conclude the hypothesis "A person is standing outside." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A person needs to be outside to stand on glacial ice. The answer is yes.
+
+Premise:
+"Three men sit at the counter in a restaurant."
+Based on this premise, can we conclude the hypothesis "the men are drinking coffee at the counter." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Drinking coffee is not the only thing people do in restaurants. The answer is not possible to tell.
+
+Premise:
+"A young boy in a spiderman shirt stands on the bottom step of a staircase."
+Based on this premise, can we conclude the hypothesis "A boy is sleeping." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: The boy cannot be standing at the bottom step of a staircase and sleeping at the same time. The answer is no.
+
+Premise:
+"A wet yellow dog runs along the shoreline."
+Based on this premise, can we conclude the hypothesis "The dog is sitting on the bed." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A dog is either sitting or running. The answer is no.
+
+Premise:
+"A heavyset woman in a red shirt and black shoulder straps balances a blue container filled with goods on top of her head."
+Based on this premise, can we conclude the hypothesis "A woman balances goods on her head." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: A container filled with goods being balanced means the goods are also being balanced. The answer is yes.
+
+Premise:
+"A small kid is captivated by a bird."
+Based on this premise, can we conclude the hypothesis "A young child looking at a bird." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Small kid refers to young child. The answer is yes.
+
+Premise:
+"A girl is playing a virtual video game while her image is displayed behind her."
+Based on this premise, can we conclude the hypothesis "A girl in a blue shirt is playing a virtual video game while her image is displayed behind her." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: All girls do not necessarily wear a blue shirt. The answer is not possible to tell.
+
+Premise:
+"A group of people are walking around a crowded area with dirt on the ground."
+Based on this premise, can we conclude the hypothesis "Some people are at an outdoor festival." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Just because the area is crowded does not mean it is a festival. The answer is not possible to tell.
+
+Premise:
+"A male volleyball player in red attempts a hit against two blockers in blue and white, during an Olympic indoor volleyball match."
+Based on this premise, can we conclude the hypothesis "The player is wading in a pool." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: The player is either in a volleyball court or in a swimming pool. The answer is no.

@@ -1,0 +1,23 @@
+Q: Carl is taking a class where the whole grade is based on four tests that are graded out of 100. He got an 80, a 75 and a 90 on his first three tests. If he wants an 85 average for the class, what is the minimum grade he needs to get on his last test?
+A: First add up his grades for the first three tests to find his current average: 80 + 75 + 90 = 245. Then find how many points he would need to get to an average of 85: 85 * 4 = 340. Then subtract his current score from his target score to find how many points he needs to get: 340 - 245 = 95. Then divide his points needed by the number of grades he has left to find the minimum grade he needs on his last test: 95 / 1 = 95. The answer is 95.
+
+Q: Mary is counting the number of minnows in the pond. 40% of the minnows have red bellies, 30% have green bellies and the rest have white bellies. If 20 minnows have red bellies, how many minnows have white bellies?
+A: The minnows with red bellies are 40% of the total number of minnows. Thus, the total number of minnows is 20 / (40%/100%) = 20 / 0.4 = 50 minnows. Subtract the minnows with red bellies and with green bellies from all minnows to find the number of minnows with white bellies: 50 - 20 - (30% * 50) = 50 - 20 - (30% * 50) = 50 - 20 - 15 = 50 - 35 = 15 minnows. The answer is 15.
+
+Q: Last week, Charles bought a t-shirt for $30, a backpack for $10, and a blue cap for $5. The store gave him a discount and, in total, he only spent $43. How much of a discount did they give him, in dollars?
+A: The purchases he made totaled $30 + $10 + $5 = $45. He should pay $45, but he only paid $43, so $45 - $43 = $2 was the discount they gave him. The answer is 2.
+
+Q: There are 11 boys and 13 girls in a class. If 1 boy is added to the class, what percentage of the class are girls?
+A: There are 11 boys + 1 new boy = 12 boys. There are 13 girls + 0 new girls = 13 girls. There are 12 + 13 = 25 students in the class. The number of girls is: 13 / 25 = 52% of the class. The answer is 52.
+
+Q: Jerry can run from his house to his school and back in the time it takes his brother Carson to run to the school. If it takes Jerry 15 minutes to make a one-way trip from his house to his school and the school is 4 miles away, how fast does Carson run in miles per hour?
+A: First find the time Jerry takes to run from his house to his school and back: 15 minutes * 2 trips = 30 minutes. Then find the distance of Jerry’s round trip: 4 miles * 2 trips = 8 miles. Then find the speed at which Jerry runs: 8 miles / 30 minutes = 0.27 miles/minute. Then convert the speed to miles per hour: 0.27 miles/minute * 60 minutes/hour = 16 miles/hour. Then divide the speed at which Jerry runs by 2 to find the speed at which Carson runs: 16 miles/hour / 2 = 8 miles/hour. The answer is 8.
+
+Q: Casey is trying to decide which employee she wants to hire. One employee works for $20 an hour. The other employee works for $22 an hour, but Casey would also get a $6/hour subsidy from the government for hiring a disabled worker. How much money per week would Casey save by hiring the cheaper employee, if they both work 40 hours per week?
+A: The cheaper employee costs $20 per hour * 40 hours per week = $800 per week. The more expensive employee costs $22 per hour * 40 hours per week - $6/hour subsidy * 40 hours per week = $22 * 40 - $6 * 40 = $880 - $240 = $640 per week. Casey would save $800 - $640 = $160 per week. The answer is 160.
+
+Q: Emma is 7 years old. If her sister is 9 years older than her, how old will Emma be when her sister is 56?
+A: Emma is 7 years old, so her sister is 7 years old + 9 years = 16 years old. If her sister is 56 years old, there are 56 years - 16 years = 40 years left until she's 56. Therefore, Emma will be 7 years old + 40 years = 47 years old. The answer is 47.
+
+Q: Avery opens a flower shop. She ties 8 bunches of flowers with 9 flowers in each bunch. How many bunches would she have if she put 12 flowers in each bunch instead?
+A: She has 8 bunches of flowers with 9 flowers in each bunch. So she has 8 * 9 = 72 flowers in total. If she had 12 flowers in each bunch, then she would have 72 / 12 = 6 bunches of flowers. The answer is 6.

@@ -1,0 +1,23 @@
+Q: Julia bought 3 packs of red balls, 10 packs of yellow balls, and 8 packs of green balls. There were 19 balls in each package. How many balls did Julie buy in all?
+A: The number of red balls is 3 x 19 = 57. The number of yellow balls is 10 x 19 = 190. The number of green balls is 8 x 19 = 152. The total number of balls is 57 + 190 + 152 = 399. The answer is 399.
+
+Q: When Patrick, Manu, and Amy participate in a race they realize that Patrick finishes the race in 60 seconds. Manu took 12 more seconds to finish the race. If Amy is twice as fast as Manu, how long did it take her to finish the race?
+A: Amy is twice as fast as Manu, so every second she runs the distance that Manu runs in 2 seconds. Thus, while Patrick and Manu run the race in 60 + 12 = 72 seconds, Amy runs it in 72 / 2 = 36 seconds. The answer is 36.
+
+Q: Megan’s grandma gave her $125 to start a savings account. She was able to increase the account by 25% from funds she earned babysitting. Then it decreased by 20% when she bought a new pair of shoes. Her final balance is what percentage of her starting balance?
+A: The starting balance is $125. It increased by 25%, so it became $125 + 25% of $125 = $125 + $125 * 25% = $125 + $31.25 = $156.25. The final balance decreased by 20%, so it is $156.25 - 20% of $156.25 = $156.25 - $156.25 * 20% = $156.25 - $31.25 = $125. Thus, the final balance is 100% of the starting balance. The answer is 100.
+
+Q: Jane is looking at a tree. At the same time, the tree and Jane are casting shadows - the tree of 10 meters and Jane of 0.5 meters. Jane is 1.5 meters tall. How tall is the tree?
+A: The shadow of Jane is 1.5 / 0.5 = 3 times smaller than her height. The height of the tree is therefore 3 times bigger than the shadow, so it's 3 * 10 = 30 meters tall. The answer is 30.
+
+Q: Damien jogs 5 miles per day on weekdays only. How many miles does he run over three weeks?
+A: He runs 5 miles per day 5 days a week, so he runs 5 * 5 = 25 miles per week. He runs 25 miles per week 3 weeks, so he runs 25 * 3 = 75 miles over three weeks. The answer is 75.
+
+Q: Cassie is an athletic person and tries to drink at least 12 cups of water a day to stay hydrated while being active. Her water bottle holds 16 ounces. There are 8 ounces of water in a cup. How many times does Cassie have to refill her water bottle a day to make sure she drinks 12 cups?
+A: Each time Cassie refills her water bottle, she's drinking 16 ounces of water. If she needs 12 cups of water in total, then she needs 12 cups * 8 ounces/cup = 96 ounces of water. Since Cassie drinks 16 ounces each time she refills her water bottle, she has to refill her water bottle 6 times. The answer is 6.
+
+Q: Billy is reducing raspberry juice down to make syrup. He reduces 6 quarts of juice to 1/12 of its original volume, then adds 1 cup of sugar. What is the final volume of the syrup in cups? (There are 4 cups in a quart)
+A: The final volume of the juice is 1/12 of its original volume, so it is 1/12 x 6 = 0.5 quarts. There are 4 cups in 1 quart, so 0.5 x 4 = 2 cups of juice. Since Billy added 1 more cup of sugar, the final syrup volume is 2 + 1 = 3 cups. The answer is 3.
+
+Q: One hundred chips were divided by Ian and Lyle in the ratio 4:6. What percentage of the chips did Lyle have?
+A: The chips were divided into 4 + 6 = 10 parts. Each part has 100 / 10 = 10 chips. Since Lyle owns 6 parts, then he has 6 x 10 = 60 chips. This is 60/100 x 100 = 60% of the entire chips. The answer is 60.

@@ -1,0 +1,23 @@
+Q: Julia bought 3 packs of red balls, 10 packs of yellow balls, and 8 packs of green balls. There were 19 balls in each package. How many balls did Julie buy in all?
+A: The total number of packages is 3 + 10 + 8 = 21. Julia bought 21 × 19 = 399 balls. The answer is 399.
+
+Q: When Patrick, Manu, and Amy participate in a race they realize that Patrick finishes the race in 60 seconds. Manu took 12 more seconds to finish the race. If Amy is twice as fast as Manu, how long did it take her to finish the race?
+A: The time it took Manu to complete the race is 60 + 12 = 72 seconds. If Amy is twice as fast as Manu, then she takes half the time Manu did to finish the race, so Amy took 1/2 * 72 = 36 seconds. The answer is 36.
+
+Q: Megan’s grandma gave her $125 to start a savings account. She was able to increase the account by 25% from funds she earned babysitting. Then it decreased by 20% when she bought a new pair of shoes. Her final balance is what percentage of her starting balance?
+A: Megan started with $125 and increased it by 25%, so $125 + (0.25)125 or $125 + $31.25 = $156.25. Then the balance decreased by 20%, so $156.25 – (0.20)156.25 or $156.25 - $31.25 = $125. $125 is the balance Megan started with, so her final balance is 100% of the starting balance. The answer is 100.
+
+Q: Jane is looking at a tree. At the same time, the tree and Jane are casting shadows - the tree of 10 meters and Jane of 0.5 meters. Jane is 1.5 meters tall. How tall is the tree?
+A: The shadow of Jane is 1.5 / 0.5 = 3 times smaller than her height. The height of the tree is therefore 3 times bigger than the shadow, so it's 3 * 10 = 30 meters tall. The answer is 30.
+
+Q: Damien jogs 5 miles per day on weekdays only. How many miles does he run over three weeks?
+A: Three weeks at 5 days per week means Damien runs 3 * 5 = 15 times in three weeks. If each time he runs 5 miles, then over 15 running days he covers 5 * 15 = 75 miles. The answer is 75.
+
+Q: Cassie is an athletic person and tries to drink at least 12 cups of water a day to stay hydrated while being active. Her water bottle holds 16 ounces. There are 8 ounces of water in a cup. How many times does Cassie have to refill her water bottle a day to make sure she drinks 12 cups?
+A: Cassie needs to drink 8 * 12 = 96 ounces of water to drink 12 cups a day. Thus, Cassie needs to refill her water bottle 96 / 16 = 6 times a day. The answer is 6.
+
+Q: Billy is reducing raspberry juice down to make syrup. He reduces 6 quarts of juice to 1/12 of its original volume, then adds 1 cup of sugar. What is the final volume of the syrup in cups? (There are 4 cups in a quart)
+A: First find the total number of cups of juice: 6 quarts * 4 cups/quart = 24 cups. Then find the reduced volume of the juice: 24 cups * 1/12 = 2 cups. Then add the volume of the sugar to find the total volume of the syrup: 2 cups + 1 cups = 3 cups. The answer is 3.
+
+Q: One hundred chips were divided by Ian and Lyle in the ratio 4:6. What percentage of the chips did Lyle have?
+A: The chips were divided into 4 + 6 = 10 parts. Each part has 100 / 10 = 10 chips. Since Lyle owns 6 parts, then he has 6 x 10 = 60 chips. This is 60/100 x 100 = 60% of the entire chips. The answer is 60.

@@ -1,0 +1,23 @@
+Q: Bob has planted corn in his garden, and it has just started to sprout. A week after planting it, it had grown 2 inches. The next week, its height increased by twice as much as it had the first week. In the third week, it grew 4 times as much as it did the week before. How tall are the corn plants now?
+A: The corn has grown 2 inches after the first week. After the second week, it grew 2 x 2 = 4 inches. After the third week, it grew 4 x 4 = 16 inches. Therefore, the corn is 2 + 4 + 16 = 22 inches tall. The answer is 22.
+
+Q: Benjamin is tracking how many miles he walks in a week. He walks to work and home five days a week, walks his dog twice a day every day, walks to his best friend’s house once a week, and walks to the convenience store twice a week. Work is six miles away, dog walks are two miles, his best friend’s house is one mile, and the convenience store is three miles. How many miles does Benjamin walk in a week?
+A: Benjamin walks 6 miles to work and 6 miles home, so he walks 6 * 2 = 12 miles to work and home. He walks to work 5 days a week, so he walks 12 * 5 = 60 miles to work and home a week. He walks his dog 2 times a day for 2 miles, so he walks 2 * 2 = 4 miles a day for his dog. He walks his dog 7 days a week, so he walks 4 * 7 = 28 miles for his dog. He walks 3 miles to the store 2 times a week, so he walks 2 * 3 = 6 miles to the store each week. Adding his weekly 1 mile to his friend’s house, Benjamin walks 60 + 28 + 6 + 1 = 95 miles in a week. The answer is 95.
+
+Q: In a basketball game, Tobee scored 4 points. Jay scored 6 more than Tobee and Sean scored 2 less than the points of Tobee and Jay together. If Tobee, Jay, and Sean are on the same team, how many points did they score for their team?
+A: Jay scored 4 + 6 = 10 points. Together, Tobee and Jay scores 4 + 10 = 14 points. So, Sean scored 14 - 2 = 12 points. Thus, Tobee, Jay, and Sean scored a total of 4 + 10 + 12 = 26 points for their team. The answer is 26.
+
+Q: Bobby made a big batch of soup weighing 80 kg. Each day the batch gets reduced by half. How many kg will it reach on the fourth day after he made the soup?
+A: The soup weighs 80 kg on the first day. There is 80 * 1/2 = 40 kg of soup after the first day. There is 40 * 1/2 = 20 kg of soup after the second day. So, there is 20 * 1/2 = 10 kg of soup after the third day. Therefore, there is 10 * 1/2 = 5 kg of soup after the fourth day. The answer is 5.
+
+Q: Rob and Mark plan to meet at the national park. It takes 1 hour for Rob to get to the national park and it takes three times as much time for Mark to get to the national park. If Rob leaves his home at 11 a.m., at what time should Mark leave his home so that they both arrive at the same time?
+A: Rob will arrive at the park at 11 + 1 = 12 noon. Mark is three times as long, so he needs 3 * 1 = 3 hours to arrive at the park. Therefore, Mark has to leave his home at noon - 3 = 9 a.m. The answer is 9.
+
+Q: Yanna baked twenty butter cookies and forty biscuits in the morning. In the afternoon, she baked ten butter cookies and twenty biscuits. How many more biscuits did she bake than butter cookies?
+A: There were 20 + 10 = 30 butter cookies. And, there were 40 + 20 = 60 biscuits. Therefore, she baked 60 - 30 = 30 more biscuits than butter cookies. The answer is 30.
+
+Q: After Bella’s ballet performance, she received 2 dozen roses from her parents, and 2 roses from each of her 10 dancer friends. How many roses did Bella receive?
+A: Bella receives 2 x 12 = 24 roses from her parents. She receives 2 x 10 = 20 roses from her friends. She receives a total of 24 + 20 = 44 roses. The answer is 44.
+
+Q: Honey earned $80 a day. Every day, she spent part of her pay and saved the rest. After 20 days of work, she spent $1360. How much did Honey save in 20 days?
+A: After 20 days of work, Honey spent 20 x 80 = 1600 dollars. She spent $1360 and saved the rest. The difference between what she spent, $1360, and what she earned, $1600, is the amount she saved: $1600 - $1360 = $240. She saved $240 in 20 days. The answer is 240.

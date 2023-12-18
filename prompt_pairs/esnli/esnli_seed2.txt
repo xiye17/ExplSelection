@@ -1,0 +1,80 @@
+Premise:
+"A young man hitting a ball with a bat."
+Based on this premise, can we conclude the hypothesis "Three girls are playing basketball." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: There are either three girls or one young man. The answer is no.
+
+Premise:
+"A woman is tacking up a sign on the sigh post."
+Based on this premise, can we conclude the hypothesis "The woman is eating a cake." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Someone cannot tack a sign and eat cake at the same time. The answer is no.
+
+Premise:
+"A mother and her child are out for a walk."
+Based on this premise, can we conclude the hypothesis "A mother and her child are bonding together." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: going on a walk doesn't imply bonding together. The answer is not possible to tell.
+
+Premise:
+"Two children in soccer uniforms."
+Based on this premise, can we conclude the hypothesis "The two children wear soccer uniforms pafter the game." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: You can not infer there is a game. The answer is not possible to tell.
+
+Premise:
+"A man in a red, black and white uniform is pursuing a soccer ball on a grassy field."
+Based on this premise, can we conclude the hypothesis "A man is playing soccer." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: if your pursuing a soccer ball your also playing soccer. The answer is yes.
+
+Premise:
+"Two children lying in the snow making snow angels."
+Based on this premise, can we conclude the hypothesis "The two children are having fun." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: we don't know they are having fun. The answer is not possible to tell.
+
+Premise:
+"A man is walking down a pavement path."
+Based on this premise, can we conclude the hypothesis "the man is in the shower." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: One cannot be walking and in the shower at the same time. The answer is no.
+
+Premise:
+"Two bicyclists in a race with helmets."
+Based on this premise, can we conclude the hypothesis "two guys on bikes." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Bicyclists can be considered as guys on bikes. The answer is yes.
+
+Premise:
+"A group of children is entering an inflatable bounce house."
+Based on this premise, can we conclude the hypothesis "bounce house is filled with children." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Children entering a bounce house implies that the house is filled with children. The answer is yes.

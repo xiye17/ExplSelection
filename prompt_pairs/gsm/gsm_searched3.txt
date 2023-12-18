@@ -1,0 +1,23 @@
+Q: Grant spends $200.00 a year to have the newspaper delivered daily to his house. Juanita buys the newspaper daily. Monday through Saturday, she spends $0.50 and on Sunday she spends $2.00. How much more money does Juanita spend buying the newspaper yearly than Grant?
+A: Monday through Saturday Juanita buys the paper for $0.50 so that's 6 * $0.50 = $3.00. She spends $2.00 for Sunday and $3.00 for the other 6 days so she spends $2 + $3 = $5.00 for the newspaper weekly. Over 52 weeks she spends 52 * $5 = $260.00. Juanita spends $260.00 on the newspaper for the year and Grants spends $200.00 a year so Juanita spends $260 - $200 = $60.00 more. The answer is 60.
+
+Q: Daisy is a poodle puppy who loves to play with her dog toys. She often loses them in various ways, and her owner needs to replace them. On Monday, Daisy played with 5 dog toys. On Tuesday, Daisy had 3 dog toys left after losing some, and her owner went to the store and got her 3 more. On Wednesday, all of Daisy's old and new dog toys were missing, so her owner went to the store and bought her 5 more. If Daisy's owner found all the lost dog toys, including the new dog toys, how many dog toys would Daisy have now?
+A: On Monday, Daisy had 5 dog toys. On Tuesday, she lost 2 dog toys and had 3 left. On Wednesday, she lost all 3 and had 5 new ones. So, in total she has 5 + 3 + 5 = 13 dog toys. The answer is 13.
+
+Q: Out of the 120 people who attended the party, 1/3 are men while half are women. The rest are children. How many children attended the party?
+A: There were 120 / 3 = 40 men at the party. There were 120 / 2 = 60 women at the party. So, there were 40 + 60 = 100 men and women at the party. Thus, 120 - 100 = 20 were children. The answer is 20.
+
+Q: Dani has 3 cats; Binkie, Frankie and Spaatz. Each cat has a collar decorated with gemstones. Binkie has four times as many gemstones on his collar as does Frankie but Spaatz has two less than half as many gemstones on her collar as does Frankie. If Spaatz has 1 Gemstone on her collar, how many gemstones does Binkie have on his collar?
+A: If Spaatz has 2 less than half the number of gemstones as does Frankie, then half as many as Frankie is 1 + 2 = 3 gemstones. If 3 is half the number of gemstones on Frankie's collar, then Frankie has 3 * 2 = 6 gemstones. If Binkie has 4 times as many gemstones as Frankie, then Binkie has 4 * 6 = 24. The answer is 24.
+
+Q: Ken, Dave, and Jerry played shuffleboard against one another while together vacationing in Florida. Ken won 5 more games than Dave, and Dave won 3 more games than Jerry. If Jerry won 7 games, what was the total number of games they played?
+A: With the information given we know that Ken won 5 more than Dave and Dave won 3 more than Jerry. Thus we can say that Ken = Dave + 5 and Dave = Jerry + 3. Substituting we can say that Ken = Jerry + 8. We know that Jerry won 7 games so that Ken won 7 + 8 = 15 games. We also know that Dave = Jerry + 3 so that Dave won 10 games. Thus the total number of games they played is 15 + 10 + 7 = 32. The answer is 32.
+
+Q: Patricia is growing her long very long to donate it to a charity that makes wigs for cancer survivors. Her hair is 14 inches long. She needs to donate 23 inches to make a wig. She wants her hair to be 12 inches long after the donation. How much longer does she have to grow her hair?
+A: Patricia has 14 inches of hair. She needs 23 inches - 14 inches = 9 inches more hair. She wants her hair to be 12 inches after the donation, so she needs 12 + 9 = 21 inches of hair. The answer is 21.
+
+Q: Ben starts each day with $50, spends $15 every day and saves the rest. After a few days, his mom doubled his total savings and his dad gave him an additional $10. If he now has $500, How many days have elapsed?
+A: He starts with $50. He spends $15 each day and saves the rest or $50 - $15 = $35 each day. Over x days he saves x * $35 = $35x. After his mom doubles his savings, he has 2 * $35x = $70x. After his dad gives him an additional $10, his total savings are $70x + $10 = $70x + 10. This means that $70x + 10 = $500 which means $70x = $500 - $10 = $490. $490 / $70 = 7 so he saved $35 * 7 = $245 over 7 days. The answer is 7.
+
+Q: Tony paid $7 for 2 dozen apples and 1 bunch of bananas. Arnold paid $5 for 1 dozen apples and 1 bunch of bananas. How much does a bunch of bananas cost?
+A: Tony paid $7 - $5 = $2 more than Arnold. We know he bought the same number of bananas as Arnold but that he bought 2 - 1 = 1 dozen apples more than Arnold. Therefore a dozen apples should cost $2. If Arnold paid $5 and $2 for a dozen apples then the bunch of bananas cost $5 - $2 = $3. The answer is 3.

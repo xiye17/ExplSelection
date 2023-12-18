@@ -1,0 +1,80 @@
+Premise:
+"Man in a bath with eyes closed with head almost completely submerged."
+Based on this premise, can we conclude the hypothesis "The man is washing." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: The man in a bath is implied to be washing. The answer is yes.
+
+Premise:
+"A young man at a party shouts out, his fists raised with emotion."
+Based on this premise, can we conclude the hypothesis "a man is excited that is is winning the scrabble game." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: The man is not necessarily excited, even though he shouts out with fists raised with emotion. He also is not necessarily winning the scrabble game. The answer is not possible to tell.
+
+Premise:
+"An older man reading a book."
+Based on this premise, can we conclude the hypothesis "A man is turning a page." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Reading a book does not imply turning a page. The answer is not possible to tell.
+
+Premise:
+"A young boy is spinning around a baseball bat on the grass."
+Based on this premise, can we conclude the hypothesis "A young boy is outdoors." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: grass is outdoors. The answer is yes.
+
+Premise:
+"Two big German Shepherd dogs play in the water."
+Based on this premise, can we conclude the hypothesis "Two dogs are playing roughly." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Not all dogs playing are playing roughly. The answer is not possible to tell.
+
+Premise:
+"Seven factory workers standing at work."
+Based on this premise, can we conclude the hypothesis "Seven workers are lounging in beach chairs." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Standing at work and lounging in beach chairs are different actions. The answer is no.
+
+Premise:
+"Three blindfolded people are in front of a white' Salvar o Planeta' wall."
+Based on this premise, can we conclude the hypothesis "Three people are blindfolded in front of a white wall." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: People are blindfolded is a rephrasing of three blindfolded people. The answer is yes.
+
+Premise:
+"A woman in a fiery red dress and a man in a suit dance seductively together."
+Based on this premise, can we conclude the hypothesis "The man in a dress and the woman in a suit are naked." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: One is either wearing a red dress or a suit or is naked. The answer is no.
+
+Premise:
+"A little boy climbing up the steps to a bridge on a playground."
+Based on this premise, can we conclude the hypothesis "The little boy is inside watching television." is true?
+OPTIONS:
+- yes
+- no 
+- not possible to tell
+A: Someone can't play on a playground while inside watching television. The answer is no.
